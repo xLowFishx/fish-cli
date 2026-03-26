@@ -1,0 +1,14 @@
+{
+  "name": "fish-cli",
+  "version": "1.0.0",
+  "description": "NodeJS app for helping me to scaffold directories I usually use on my everyday life/work.",
+  "main": "index.js",
+  "scripts": {
+    "fli": "node bin/fish-cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.32.1"
+}
